@@ -8,11 +8,11 @@ A decentralized public notice board built on the **Stellar blockchain** using **
 
 ### 🔹 Landing Page & Wallet Connect
 
-![Landing](public/Screenshot%202026-03-31%20124140.png)
+![Landing](my-stellar-app/public/Screenshot%202026-03-31%20124140.png)
 
 ### 🔹 Notice Board Dashboard
 
-![Dashboard](public/Screenshot%202026-03-31%20124153.png)
+![Dashboard](my-stellar-app/public/Screenshot%202026-03-31%20124153.png)
 
 ---
 
